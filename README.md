@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happyzym" alt="happyzym" /></a> </p>
 
-- 📫 How to reach me **zhuangyumin@sjtu.edu.cn**
+📫 reach me: **zhuangyumin@sjtu.edu.cn**
 
 <p align="left">
 </p>
