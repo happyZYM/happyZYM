@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZhuangYumin</h1>
-<h3 align="center">A student from Shanghai Jiao Tong University, China</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=650&lines=A+student+from+Shanghai+Jiao+Tong+University%2C+China" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happyzym&label=Profile%20views&color=0e75b6&style=flat" alt="happyzym" /> </p>
 
