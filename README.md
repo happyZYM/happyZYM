@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZhuangYumin</h1>
-<h3 align="center">A passionate from China, studying in Shanghai Jiao Tong University</h3>
+<h3 align="center">A student from Shanghai Jiao Tong University, China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happyzym&label=Profile%20views&color=0e75b6&style=flat" alt="happyzym" /> </p>
 
