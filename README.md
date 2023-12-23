@@ -1,3 +1,3 @@
 ### Hello, world!
 
-![](https://github-readme-stats.vercel.app/api?username=happyZYM)
+[![happyZYM's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyZYM)](https://github.com/anuraghazra/github-readme-stats)
